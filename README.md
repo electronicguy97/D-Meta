@@ -1,7 +1,7 @@
 # D-Meta
 image cut&amp;merge
-
 주니어입니다. 
+___
 
 # Cut_image.py
 m과 n을 입력시 파일을 자르고 변환하는 부분을 담당합니다.
