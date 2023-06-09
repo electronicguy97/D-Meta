@@ -16,7 +16,7 @@ shell script로 명령어를 실행하는 것을 도와줍니다.
 또한 CUt_image.py merge_image.py를 따로 동작시킬 수 있습니다
 
 
-## 공부한 사이트
+## 참고 사이트
 https://stackoverflow.com/ (스택오브플로우)
 
 https://opencv.org/ (오픈시브이)
