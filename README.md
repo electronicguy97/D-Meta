@@ -16,7 +16,11 @@ shell script로 명령어를 실행하는 것을 도와줍니다.
 
 ## 공부한 사이트
 https://stackoverflow.com/ (스택오브플로우)
+
 https://opencv.org/ (오픈시브이)
+
 https://www.youtube.com/watch?v=XK3eU9egll8&t=6959s (유튜브)
+
 https://www.youtube.com/watch?v=-1Egx1pv_H0&t=213s (유튜브)
+
 https://wjh2307.tistory.com/7 (개인 사이트)
