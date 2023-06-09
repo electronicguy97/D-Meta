@@ -12,3 +12,11 @@ shell script로 명령어를 실행하는 것을 도와줍니다.
 
 예시로 bash c_m_run.sh input_image.jpg 3 4 output_image를 동착시키면됩니다.
 또한 CUt_image.py merge_image.py를 따로 동작시킬 수 있습니다
+
+
+## 공부한 사이트
+https://stackoverflow.com/ (스택오브플로우)
+
+https://www.youtube.com/watch?v=XK3eU9egll8&t=6959s
+https://www.youtube.com/watch?v=-1Egx1pv_H0&t=213s
+https://wjh2307.tistory.com/7
